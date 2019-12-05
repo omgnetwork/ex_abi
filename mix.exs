@@ -5,7 +5,7 @@ defmodule ABI.Mixfile do
     [
       app: :ex_abi,
       version: "0.2.2",
-      elixir: "~> 1.9",
+      elixir: "~> 1.8",
       description: "Ethereum's ABI Interface",
       package: [
         maintainers: ["Ayrat Badykov"],
